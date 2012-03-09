@@ -1,0 +1,14 @@
+.the-header .unit-inner,
+.unit-article .unit-head-inner,
+.unit-article .entry-content,
+.unit-article .misc-content,
+.unit-article .unit-foot-inner {
+  width: auto;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.nav-global,
+.misc-content .social,
+.unit-foot {
+  display: none;
+}
