@@ -248,6 +248,15 @@ pre {
   margin-top: 0;
   margin-bottom: 0;
 }
+.unit-article header .unit-head-inner {
+  position: relative;
+}
+.unit-article header .FlattrButton {
+  position: absolute;
+  top: -1.625em;
+  margin-top: 4pt;
+  right: 0;
+}
 .unit-article .entry-content h2:first-child {
   font-size: 26px;
   line-height: 26px;
