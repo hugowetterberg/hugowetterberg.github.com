@@ -56,6 +56,9 @@ I was inspired by iOS development notables like [Matt Gemmel](http://mattgemmell
 
 And no, eyeballing this licence doesn't give you a license to use the HUWFlow component, neither does that copy paste feature in your browser... get real.
 
+To keep all this lean and easy I've decided to try out Gumroad for selling licenses: [https://gumroad.com/l/Wsa](https://gumroad.com/l/Wsa). That will be an interesting experiment in itself, so I  hope that someone actually buys a license so that I can see how it works ;)
+
+
 #### How do we deal with contributors? ####
 
 I wrote a piece of code, so far it's entirely within my rights to dictate how this piece of code should and should not be used. But how do we deal with contributions (as in pull requests, not as in donations)? I really don't want to lose the potential open source benefits, I put this on GitHub for a reason after all. But I need to establish a clear policy for contributions, a license for contributors. There is one über hostile way to go: the [CLA (Contributor License Agreement)](http://en.wikipedia.org/wiki/Contributor_License_Agreement); and there is the easier way: the [DCO (Developer Certificate of Origin)](http://elinux.org/Developer_Certificate_Of_Origin). See [Derek Jones enlightening article on the subject over at EllisLab](http://ellislab.com/blog/comments/contributor_license_agreements).
