@@ -292,6 +292,9 @@ pre {
   color: #474747;
   border: 0;
 }
+.unit-article .entry-content blockquote ol {
+  margin-left: 1em;
+}
 .unit-article .entry-content:first-child h2,
 .unit-article .entry-content:first-child h3,
 .unit-article .entry-content:first-child h4,
